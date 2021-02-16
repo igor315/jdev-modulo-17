@@ -1,4 +1,4 @@
-package pos_java_jdbc.pos_java_jdbc;
+package conexaojdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

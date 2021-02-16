@@ -2,7 +2,7 @@
 
 package model;
 
-public class userposjava {
+public class Userposjava {
 
 	private Long id;
 	private String nome;

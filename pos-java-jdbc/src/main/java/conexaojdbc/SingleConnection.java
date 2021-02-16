@@ -1,3 +1,5 @@
+//Classe que representa nossa conexão com o banco de dados
+
 package conexaojdbc;
 
 import java.sql.Connection;
@@ -5,7 +7,6 @@ import java.sql.DriverManager;
 
 public class SingleConnection {
 
-	// Cria a classe define os atributos e os métodos;
 	
 	private static String url = "jdbc:postgresql://localhost:5432/posjava";
 	private static String password = "admin";

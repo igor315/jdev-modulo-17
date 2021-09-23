@@ -109,7 +109,7 @@ public class UserPosDAO {
 				
 				
 			}
-			/*dsafsfsafdsa*/
+			
 			public void deletar(Long id) {
 			
 				try {
